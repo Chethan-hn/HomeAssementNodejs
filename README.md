@@ -26,7 +26,9 @@ This is the backend API for the **Shared Cart App**, built using Node.js and Exp
 └── README.md
 
 
-## 🛠️ Setup Instructions
+### run using command 
+node server.js 
+and after running u will get the ✅ Server running at http://localhost:5001 paste it in the chrome to view the catalog api u can use http://localhost:5001/catalog to get the get api json
 
 1. **Clone the repo**
 
