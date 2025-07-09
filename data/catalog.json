@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Wireless Headphones",
+    "price": 2999,
+    "image": "https://picsum.photos/id/180/400/300"
+  },
+  {
+    "id": "2",
+    "title": "Smart Watch",
+    "price": 4999,
+    "image": "https://picsum.photos/id/1060/400/300"
+  },
+  {
+    "id": "3",
+    "title": "Bluetooth Speaker",
+    "price": 1999,
+    "image": "https://picsum.photos/id/250/400/300"
+  },
+  {
+    "id": "4",
+    "title": "chethan",
+    "price": 1999,
+    "image": "https://picsum.photos/id/250/400/300"
+  }
+]
